@@ -38,6 +38,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 VirusTotal API for providing virus scan capabilities.
-The Python and Tkinter communities for excellent documentation and support.
+
 
 
