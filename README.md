@@ -15,7 +15,7 @@ This Antivirus Application is a simple tool built in Python with Tkinter for GUI
   
 To run this application, you'll need Python installed on your system
 
-# Prerequisites
+### Prerequisites
 Before running the application, you need to install some required Python libraries. You can install these libraries using pip, Python's package manager. Open your terminal (or Command Prompt on Windows) and run the following command:
 
 pip install requests
